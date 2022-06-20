@@ -3,6 +3,9 @@ LETTERS :
 - A : fichier ya3rfou el git , ama mazél matsjlch ka version
 - M : fichier ya3rfou el git , w saret alih modification non enregistré
 
+FILES TO IGNORE :
+- kol fichier mat7bch tal3ou 3al github
+
 COMMANDS :
 - git init : Initialisation d'un dossier
 - git add . : 
