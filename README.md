@@ -11,3 +11,5 @@ COMMANDS :
 - git commit -am "comment" : creation d'une nouvelle version
 - git log : twariilek les commits lkol
 - git checkout/switch commit-code : yarja3 lel etat mta3 el commit hethika
+- git remote add origin LINK : torbet bin repo github wel projet local
+- git push origin master : upload projet 3al repo github
