@@ -5,6 +5,7 @@ LETTERS :
 
 FILES TO IGNORE :
 - kol fichier mat7bch tal3ou 3al github
+- node_modules
 
 COMMANDS :
 - git init : Initialisation d'un dossier
