@@ -18,3 +18,6 @@ COMMANDS :
 - git remote add origin LINK : torbet bin repo github wel projet local
 - git push origin master : upload projet 3al repo github
 - git clone LINK : download project with git history
+- git checkout -b branch-name : creation nouvelle branche + switch
+- git checkout brach-name : switch from actual branch to branch-name
+- git merge branch-name : fusion branch-name into actual branch
