@@ -8,3 +8,4 @@ COMMANDS :
 - git add . : 
     - ajout d'un fichier fel memoire mta3 el git
     - enregistrement de toute modification sare 3la fichier deja ajouté
+- git commit -am "comment" : creation d'une nouvelle version
